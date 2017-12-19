@@ -1,0 +1,30 @@
+{
+  "name": "rofa",
+  "version": "0.1.0",
+  "description": "remove object from array",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZetaE/rofa.git"
+  },
+  "keywords": [
+    "remove",
+    "object",
+    "array"
+  ],
+  "author": "cesare moschini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZetaE/rofa/issues"
+  },
+  "homepage": "https://github.com/ZetaE/rofa#readme",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  },
+  "dependencies": {
+    "foia": "^1.0.1"
+  }
+}
